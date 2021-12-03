@@ -18,7 +18,7 @@ Otherwise, no Pods are listed.
 
 ```bash
 % ./podeps.rb -h
-usage: deps.rb [options] [<Podfile> [<Podfile.lock]]
+usage: deps.rb [options] [<Podfile> [<Podfile.lock>]]
     -e, --env ENVIRONMENT            add an environment
     -f, --format FORMAT              output format (json, csv)
     -h, --help                       print help
